@@ -1,0 +1,15 @@
+E:\kiemtra2303\Application\obj\Debug\net6.0\Application.csproj.AssemblyReference.cache
+E:\kiemtra2303\Application\obj\Debug\net6.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\kiemtra2303\Application\obj\Debug\net6.0\Application.AssemblyInfoInputs.cache
+E:\kiemtra2303\Application\obj\Debug\net6.0\Application.AssemblyInfo.cs
+E:\kiemtra2303\Application\obj\Debug\net6.0\Application.csproj.CoreCompileInputs.cache
+E:\kiemtra2303\Application\bin\Debug\net6.0\Application.deps.json
+E:\kiemtra2303\Application\bin\Debug\net6.0\Application.dll
+E:\kiemtra2303\Application\bin\Debug\net6.0\Application.pdb
+E:\kiemtra2303\Application\bin\Debug\net6.0\domain.dll
+E:\kiemtra2303\Application\bin\Debug\net6.0\domain.pdb
+E:\kiemtra2303\Application\obj\Debug\net6.0\Application.csproj.CopyComplete
+E:\kiemtra2303\Application\obj\Debug\net6.0\Application.dll
+E:\kiemtra2303\Application\obj\Debug\net6.0\refint\Application.dll
+E:\kiemtra2303\Application\obj\Debug\net6.0\Application.pdb
+E:\kiemtra2303\Application\obj\Debug\net6.0\ref\Application.dll

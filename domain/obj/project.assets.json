@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\kiemtra2303\\domain\\domain.csproj",
+      "projectUniqueName": "E:\\GitHub\\ktra.github.io\\domain\\domain.csproj",
       "projectName": "domain",
-      "projectPath": "E:\\kiemtra2303\\domain\\domain.csproj",
+      "projectPath": "E:\\GitHub\\ktra.github.io\\domain\\domain.csproj",
       "packagesPath": "C:\\Users\\Hi\\.nuget\\packages\\",
-      "outputPath": "E:\\kiemtra2303\\domain\\obj\\",
+      "outputPath": "E:\\GitHub\\ktra.github.io\\domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hi\\AppData\\Roaming\\NuGet\\NuGet.Config",

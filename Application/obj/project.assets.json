@@ -628,11 +628,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\kiemtra2303\\Application\\Application.csproj",
+      "projectUniqueName": "E:\\GitHub\\ktra.github.io\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "E:\\kiemtra2303\\Application\\Application.csproj",
+      "projectPath": "E:\\GitHub\\ktra.github.io\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\Hi\\.nuget\\packages\\",
-      "outputPath": "E:\\kiemtra2303\\Application\\obj\\",
+      "outputPath": "E:\\GitHub\\ktra.github.io\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -649,8 +649,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\kiemtra2303\\domain\\domain.csproj": {
-              "projectPath": "E:\\kiemtra2303\\domain\\domain.csproj"
+            "E:\\GitHub\\ktra.github.io\\domain\\domain.csproj": {
+              "projectPath": "E:\\GitHub\\ktra.github.io\\domain\\domain.csproj"
             }
           }
         }

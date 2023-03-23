@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KM3y36Q4VKjoBTedlsV8n114cjxoiCPnzLvBGjJgkWNMEMpk80aZv65clfKoL5+F3dT9UVNX0X73OqNZZdX5Jw==",
+  "dgSpecHash": "pPpSq7ycy2NT8H3qLuYC73HB/YXi7UohqVdwcirYYfHpmyxZp4vbVWnONUZ0KyQeApO6DWZ5TM3LCu3wTCgFXg==",
   "success": true,
-  "projectFilePath": "E:\\kiemtra2303\\WebApi\\WebApi.csproj",
+  "projectFilePath": "E:\\GitHub\\ktra.github.io\\WebApi\\WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Hi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

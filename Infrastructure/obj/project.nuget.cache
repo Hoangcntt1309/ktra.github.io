@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MZrQC2xmgyfv17Owt/Jp0873841ZOJnOYg4vOl2mFX4oNBIO1KwfcLud5pKPEH9p94k7ze8OGUDO30AfxiHdZA==",
+  "dgSpecHash": "+0A/nx1C4xdbi9X9oP+oZe13/TCM25yysRisqR9EVwOGjpjjGcipcaGay5ZbcZT95CuugTMAYBgS3fleaAAUEw==",
   "success": true,
-  "projectFilePath": "E:\\kiemtra2303\\Infrastructure\\Infrastructure.csproj",
+  "projectFilePath": "E:\\GitHub\\ktra.github.io\\Infrastructure\\Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hi\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Hi\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VIKD6vwQaFFpbGTz51n+wbU/Of9t29aXDxvLxG7pinlckcHyLWWGCZp/iQXRR2LxTT3n2RwgybEkp8RDyZ97Iw==",
+  "dgSpecHash": "5sEU1Yu9pqL0hPfYjJBOngQLFz54kc7OnLXirhhE9AhsorMCoMDWgPJNxO5vmM+sZAgmM6UMQJmBgIotktv5hA==",
   "success": true,
-  "projectFilePath": "E:\\kiemtra2303\\Application\\Application.csproj",
+  "projectFilePath": "E:\\GitHub\\ktra.github.io\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Hi\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.4\\microsoft.entityframeworkcore.7.0.4.nupkg.sha512",
     "C:\\Users\\Hi\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.4\\microsoft.entityframeworkcore.abstractions.7.0.4.nupkg.sha512",

@@ -3953,11 +3953,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\kiemtra2303\\WebApi\\WebApi.csproj",
+      "projectUniqueName": "E:\\GitHub\\ktra.github.io\\WebApi\\WebApi.csproj",
       "projectName": "WebApi",
-      "projectPath": "E:\\kiemtra2303\\WebApi\\WebApi.csproj",
+      "projectPath": "E:\\GitHub\\ktra.github.io\\WebApi\\WebApi.csproj",
       "packagesPath": "C:\\Users\\Hi\\.nuget\\packages\\",
-      "outputPath": "E:\\kiemtra2303\\WebApi\\obj\\",
+      "outputPath": "E:\\GitHub\\ktra.github.io\\WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hi\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3974,11 +3974,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "E:\\kiemtra2303\\Application\\Application.csproj": {
-              "projectPath": "E:\\kiemtra2303\\Application\\Application.csproj"
+            "E:\\GitHub\\ktra.github.io\\Application\\Application.csproj": {
+              "projectPath": "E:\\GitHub\\ktra.github.io\\Application\\Application.csproj"
             },
-            "E:\\kiemtra2303\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "E:\\kiemtra2303\\Infrastructure\\Infrastructure.csproj"
+            "E:\\GitHub\\ktra.github.io\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "E:\\GitHub\\ktra.github.io\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }
